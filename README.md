@@ -1,2 +1,23 @@
-# stock-trading-dashboard
-Smart Stock Trading Dashboard using Machine Learning to predict next-day stock prices, compare growth trends, and generate BUY/SELL signals with real-time data.
+# 📊 Smart Stock Trading Dashboard
+
+## 🚀 Features
+- 📈 Growth comparison of multiple stocks
+- 💰 Live stock price
+- 🤖 Machine Learning prediction (Linear Regression)
+- 📊 Change percentage calculation
+- 📅 Next-day prediction
+- 📉 BUY/SELL signal
+- 🔁 Auto-refresh dashboard
+
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- Scikit-learn
+- yFinance API
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+streamlit run app.py
